@@ -1,1 +1,1 @@
-visit: https://thedigitalfab.github.io/JS_events/
+visit: https://thedigitalfab.github.io/JS_events/exo_events.html
